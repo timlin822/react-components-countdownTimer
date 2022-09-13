@@ -1,4 +1,6 @@
 .countdown-timer{
+    font-size: 32px;
+    font-weight: 400;
     display: flex;
     justify-content: center;
     align-items: center;
